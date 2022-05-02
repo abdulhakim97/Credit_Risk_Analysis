@@ -32,5 +32,6 @@
 
 # Summary: 
 ------------------------------------------------------
-### From what I gathered collecting and sampling the data, the precision of low-risk indiviudal was pretty good, almost all of the low-risk cusomters were marked as low-risk however high-risk credit users weren't precicise at all.
+From what I gathered collecting and sampling the data, the precision of low-risk indiviudal was pretty good, almost all of the low-risk cusomters were marked as low-risk however high-risk credit users weren't precicise at all.
 The EasyEnsembleClassifier or the ECC had the highest Balanced Accuracy Score out of all the 6 models that were used. I would recommend that this model by used compared to the other five because of these reasones.
+However the BRFC model also showed high accuracy rate so this ml model would also be a good alternative as well.
